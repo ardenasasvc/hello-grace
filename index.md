@@ -1,4 +1,4 @@
-# hello grace
+
 *welcome to your new keyboard*
 *here are some things to help you get started*
 
