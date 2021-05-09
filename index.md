@@ -19,3 +19,11 @@
 <div style="padding-top: 60%; position: relative;">
 	<iframe src="https://configure.zsa.io/embed/ergodox-ez/layouts/YWYKJ/latest/0" style="border: 0; height: 100%; left: 0; position: absolute; top: 0; width: 100%"></iframe>
 </div>
+
+## more about mechanical keyboards
+there are lots of resources to learn online if you want to dive deeper.  here are some favorites:
+
+- [keyboard university](https://keyboard.university/)
+- [mk.com](https://mechanicalkeyboards.com/)
+- [r/mechanicalkeyboards](https://www.reddit.com/r/MechanicalKeyboards/)
+- [cute keyboard club discord](https://discord.gg/AkbDKjAFBc)
